@@ -7,8 +7,9 @@ The PHP Hello, World! application is in `src/index.php`.
 
 My example code:
 
-<script src="https://gist.github.com/podanypepa/e7da56c71d4d1c1fed108b3787696a6b.js"></script>
-
+```php
+phpinfo();
+```
 
 ## Runtime
 Fully functionally config is in dir ./config. You don't need modify any file.
